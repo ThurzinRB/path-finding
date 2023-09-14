@@ -1,0 +1,2 @@
+nodeM=30
+nodeN=50
